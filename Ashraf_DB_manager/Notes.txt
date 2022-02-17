@@ -1,0 +1,38 @@
+﻿For Current version :
+1.
+
+
+
+For for future update :
+1.merge AddNewConnectionString & UpdateConnectionString functions
+2.Move ConnectionString tab to new form
+3.Add icons to buttons
+4.Add language support for Arabic, Espaniol, Russian, Francis
+5.Add video turorial
+6.Add step by step tutorial with pictures
+7.Add color themes
+8.remove local server item form csList
+9.change DropDownStyle for all DDL to DropDownList instead of DropDown
+10.merge ValidatePath function in all forms (Mainform & CrystalReport Manager)
+11.Add settings form :
+	default collation is Arabic CI AI
+12.styling autocomplete for DDLs "Collation & DataBases"
+13.Add intelisence comment for all methods and parameters :
+//
+    // Summary:
+    //     Represents a collection of keys and values.
+    //
+    // Type parameters:
+    //   TKey:
+    //     The type of the keys in the dictionary.
+    //
+    //   TValue:
+    //     The type of the values in the dictionary.
+    [Serializable]
+    [DebuggerTypeProxy(typeof(Mscorlib_DictionaryDebugView<,>))]
+    [DebuggerDisplay("Count = {Count}")]
+    [ComVisible(false)]
+    [__DynamicallyInvokable]
+
+14.
+
